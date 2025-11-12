@@ -1,6 +1,6 @@
 <!-- Banner Gráfico -->
 <p align="center">
-  <img src="https://github.com/Padokazzz/Padokazzz/blob/main/A_digital_graphic_profile_header_introduces_Leonar.png" width="100%" alt="Leonardo Padilha Kawashaki Header"/>
+  <img src="https://github.com/Padokazzz/Padokazzz/blob/main/perfil.png" width="100%" alt="Leonardo Padilha Kawashaki Header"/>
 </p>
 
 <!-- Animação de texto digitando -->
