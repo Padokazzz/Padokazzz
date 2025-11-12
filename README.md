@@ -1,4 +1,9 @@
-<!-- Banner animado -->
+<!-- Banner Gráfico -->
+<p align="center">
+  <img src="https://github.com/Padokazzz/Padokazzz/blob/main/A_digital_graphic_profile_header_introduces_Leonar.png" width="100%" alt="Leonardo Padilha Kawashaki Header"/>
+</p>
+
+<!-- Animação de texto digitando -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=👋+Olá%2C+sou+o+Leonardo!;💻+Desenvolvedor+Full+Stack+Mobile;🚀+Apaixonado+por+tecnologia+e+aprendizado;☕+Café+e+código+movem+meu+dia!" alt="Typing SVG" />
 </h1>
