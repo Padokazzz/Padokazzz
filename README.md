@@ -1,77 +1,202 @@
-<!-- Banner Gráfico -->
+```md
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Padokazzz/Padokazzz/blob/main/perfil.png" width="100%" alt="Leonardo Padilha Kawashaki Header"/>
+  <img src="https://github.com/Padokazzz/Padokazzz/blob/main/perfil.png" width="100%" alt="Leonardo Padilha Banner"/>
 </p>
 
-<!-- Animação de texto digitando -->
+<!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=👋+Olá%2C+sou+o+Leonardo!;💻+Desenvolvedor+Full+Stack+Mobile;🚀+Apaixonado+por+tecnologia+e+aprendizado;☕+Café+e+código+movem+meu+dia!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Leonardo+Padilha;Full+Stack+Developer;React+%7C+TypeScript+%7C+.NET+%7C+Flutter;Building+Web%2C+Mobile+and+Backend+Applications" />
 </h1>
 
----
+<!-- Animated Avatar -->
+<p align="center">
+  <img src="https://github.com/Padokazzz/Padokazzz/blob/main/avatar.gif" width="180" alt="Animated Avatar"/>
+</p>
 
-💻 Desenvolvedor **Full Stack Mobile** apaixonado por tecnologia, aprendizado e resolver problemas com código.  
-📍 Do interior de São Paulo 🇧🇷 | 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-
----
-
-## 🚀 Tecnologias e Stacks
-
-### 🎨 Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Back-End
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 📱 Mobile & Full Stack
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Padokazzz&label=Profile+Views&color=58A6FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Padokazzz?style=for-the-badge&color=58A6FF&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/Padokazzz?style=for-the-badge&color=58A6FF&labelColor=0D1117" />
+</p>
 
 ---
 
-## 💡 Sobre mim
+# 👨‍💻 Sobre mim
 
-Comecei minha jornada como **Front-End Developer**, criando interfaces e experiências focadas no usuário.  
-Hoje atuo como **Full Stack Mobile Developer**, explorando o universo de apps e soluções completas.  
+Sou Desenvolvedor Full Stack com experiência em desenvolvimento **Web, Mobile e Backend**.
 
-📂 Meu portfólio ainda está em construção, mas aqui compartilho meus projetos e aprendizados ao longo do caminho.  
-Sinta-se à vontade para explorar, deixar uma ⭐ e acompanhar minha evolução!
+Atualmente trabalho com **Flutter** e **.NET** em aplicações reais, atuando com:
 
----
+- APIs REST
+- React e TypeScript
+- Chat em tempo real
+- SignalR e WebSockets
+- Notificações Push
+- Chamadas de voz e vídeo com WebRTC
+- Integrações entre frontend e backend
+- Manutenção de aplicações em produção
 
-## 📊 Estatísticas do GitHub
+Meu foco atual é evoluir cada vez mais no ecossistema **Web**, principalmente com **React, TypeScript, Next.js e .NET**.
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Padokazzz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Padokazzz&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
-## 🌐 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-padilha-kawashaki-822434163)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Padokazzz)
+📍 Araçoiaba da Serra - SP, Brasil
 
 ---
 
-## 👀 Contador de Visitantes
+# 🚀 Tech Stack
 
-<div align="center">
+## 🌐 Web
 
-![Visitors](https://komarev.com/ghpvc/?username=Padokazzz&label=Visitas+no+perfil&color=0e75b6&style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
+</p>
 
-</div>
+## ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
+</p>
+
+## 📱 Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+## 🗄️ Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+## 🛠️ Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio" />
+</p>
 
 ---
 
-⭐ **"Código limpo, aprendizado constante e uma boa xícara de café ☕ são minha energia diária!"**
+# 🔥 Atualmente
+
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- 🌐 Estudando React, Next.js e TypeScript
+- ⚙️ Desenvolvendo APIs com C# e .NET
+- 📱 Mantendo aplicações Flutter em produção
+- 🔄 Trabalhando com SignalR e WebSockets
+- 🐳 Estudando Docker e arquitetura de sistemas
+- ☁️ Explorando deploys e infraestrutura cloud
+
+<br clear="right"/>
+
+---
+
+# 🚀 Projetos em Destaque
+
+## 💬 Sistema de Chat em Tempo Real
+
+**Flutter • .NET • SignalR • SQL Server**
+
+- Mensagens em tempo real
+- Status de envio, entrega e leitura
+- Grupos e conversas privadas
+- Notificações Push
+- Integração com SignalR
+
+---
+
+## 📱 Aplicação Social Mobile
+
+**Flutter • C# • .NET • SQL Server**
+
+- Feed de conteúdo
+- Sistema de seguidores
+- Upload de mídia
+- Chat em tempo real
+- Eventos
+- Chamadas de voz e vídeo
+
+---
+
+## 🌐 Portfólio Web
+
+**React • TypeScript • Vite**
+
+- Apresentação profissional
+- Showcase de projetos
+- Interface moderna e responsiva
+- Evolução contínua
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Padokazzz&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padokazzz&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Padokazzz&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Padokazzz&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Snake Animation
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Padokazzz/Padokazzz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Padokazzz/Padokazzz/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Padokazzz/Padokazzz/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Padokazzz&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+# 🎯 Objetivos para 2026
+
+- Aprofundar conhecimentos em React e Next.js
+- Evoluir em arquitetura de software
+- Construir projetos Full Stack mais completos
+- Melhorar deploy, Docker e CI/CD
+- Consolidar atuação como Desenvolvedor Full Stack
+
+---
+
+# 🌎 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardo-padilha-kawashaki-822434163">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:padilhakawashakil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Always+learning.;Always+building.;Always+improving." />
+</p>
+```
