@@ -1,4 +1,4 @@
-```md
+
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/Padokazzz/Padokazzz/blob/main/perfil.png" width="100%" alt="Leonardo Padilha Banner"/>
