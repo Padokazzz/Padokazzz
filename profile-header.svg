@@ -1,52 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Leonardo Padilha — Software Engineering Archive</title>
-  <desc id="desc">A dark analog-inspired technical archive banner with muted phosphor green and amber details.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#090d0c"/>
-      <stop offset=".55" stop-color="#111816"/>
-      <stop offset="1" stop-color="#17120f"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="78%" cy="42%" r="55%">
-      <stop offset="0" stop-color="#9b6b37" stop-opacity=".18"/>
-      <stop offset="1" stop-color="#9b6b37" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#a5b5a5" stroke-opacity=".07" stroke-width="1"/>
-    </pattern>
-    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
-      <path d="M0 0H4" stroke="#dce6d8" stroke-opacity=".035"/>
-    </pattern>
-  </defs>
-  <rect width="1200" height="360" fill="url(#bg)"/>
-  <rect width="1200" height="360" fill="url(#glow)"/>
-  <rect width="1200" height="360" fill="url(#grid)"/>
-  <rect width="1200" height="360" fill="url(#scan)"/>
-  <path d="M48 42H1152M48 318H1152" stroke="#9baf9b" stroke-opacity=".32"/>
-  <path d="M48 42V58M1152 42V58M48 302V318M1152 302V318" stroke="#b28a58" stroke-width="2"/>
-  <g fill="#9aa89b" font-family="monospace" font-size="12" letter-spacing="2">
-    <text x="64" y="76">PERSONAL ARCHIVE / 001</text>
-    <text x="1136" y="76" text-anchor="end">SOFTWARE ENGINEERING</text>
-    <text x="64" y="292">FIELD NOTES · SYSTEMS · INTERFACES</text>
-    <text x="1136" y="292" text-anchor="end">BRAZIL / ONLINE</text>
-  </g>
-  <g transform="translate(64 112)">
-    <rect x="0" y="0" width="5" height="112" fill="#a8b78d"/>
-    <text x="28" y="45" fill="#e2e7dc" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="1">LEONARDO PADILHA</text>
-    <text x="30" y="82" fill="#b28a58" font-family="monospace" font-size="17" letter-spacing="3">FULL STACK DEVELOPER</text>
-    <text x="30" y="111" fill="#9aa89b" font-family="monospace" font-size="13" letter-spacing="1.4">C# / .NET  ·  TYPESCRIPT  ·  REACT  ·  PYTHON</text>
-  </g>
-  <g transform="translate(1010 136)" opacity=".82">
-    <circle cx="0" cy="0" r="64" fill="none" stroke="#a8b78d" stroke-opacity=".28"/>
-    <circle cx="0" cy="0" r="48" fill="none" stroke="#b28a58" stroke-opacity=".42" stroke-dasharray="2 7"/>
-    <path d="M-30 0H30M0-30V30M-21-21L21 21M21-21L-21 21" stroke="#a8b78d" stroke-opacity=".42"/>
-    <circle cx="0" cy="0" r="8" fill="#b28a58"/>
-    <circle cx="0" cy="0" r="3" fill="#111816"/>
-  </g>
-  <g fill="#b28a58">
-    <circle cx="1114" cy="260" r="3"/>
-    <circle cx="1128" cy="260" r="3" opacity=".55"/>
-    <circle cx="1142" cy="260" r="3" opacity=".25"/>
-  </g>
-  <rect x="1" y="1" width="1198" height="358" fill="none" stroke="#c4cbbd" stroke-opacity=".18"/>
+<title id="title">PADOKAZZZ | Cyber tribal software engineering</title>
+<desc id="desc">An original cyber-tribal sigil built from geometric paths, circuit traces and nodes, paired with a dark technical identity.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050706"/><stop offset=".55" stop-color="#0b100e"/><stop offset="1" stop-color="#100b13"/></linearGradient>
+  <radialGradient id="aura"><stop stop-color="#8c50bd" stop-opacity=".23"/><stop offset=".55" stop-color="#78a84b" stop-opacity=".07"/><stop offset="1" stop-color="#050706" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#9db39a" stroke-opacity=".055"/></pattern>
+  <pattern id="scan" width="3" height="3" patternUnits="userSpaceOnUse"><path d="M0 0H3" stroke="#fff" stroke-opacity=".025"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="360" fill="url(#bg)"/><rect width="1200" height="360" fill="url(#grid)"/><rect width="1200" height="360" fill="url(#scan)"/>
+<ellipse cx="830" cy="178" rx="270" ry="230" fill="url(#aura)"/>
+<g fill="none" stroke="#9bb27b" stroke-opacity=".35" stroke-width="1">
+<path d="M30 48H300L326 74H390M30 312H280L304 288H370M1170 48H1000L976 72H930M1170 312H1020L996 288H940"/>
+<path d="M30 48V72M30 288V312M1170 48V72M1170 288V312"/>
+<path d="M70 180H290L320 150H410M1130 180H1010L980 150H950" stroke-dasharray="3 7"/>
+</g>
+<g fill="#9bb27b" opacity=".7"><circle cx="290" cy="180" r="2"/><circle cx="410" cy="150" r="2"/><circle cx="950" cy="150" r="2"/><circle cx="1010" cy="180" r="2"/></g>
+<!-- custom sigil: interlocking paths inspired by tribal geometry and circuit topology -->
+<g transform="translate(790 178)" fill="none" stroke-linecap="square" stroke-linejoin="miter">
+ <circle r="132" stroke="#9bb27b" stroke-opacity=".19" stroke-width="1"/>
+ <circle r="113" stroke="#9b63c0" stroke-opacity=".38" stroke-width="1" stroke-dasharray="2 8"/>
+ <path d="M0-151V-116M0 116V151M-151 0H-116M116 0H151" stroke="#b0c28b" stroke-width="2" opacity=".7"/>
+ <path d="M0-112L23-77L60-94L48-52L91-32L62 0L91 32L48 52L60 94L23 77L0 112L-23 77L-60 94L-48 52L-91 32L-62 0L-91-32L-48-52L-60-94L-23-77Z" stroke="#b6c69a" stroke-width="2.3" filter="url(#glow)"/>
+ <path d="M0-86L17-43L54-58L38-20L76 0L38 20L54 58L17 43L0 86L-17 43L-54 58L-38 20L-76 0L-38-20L-54-58L-17-43Z" stroke="#9b63c0" stroke-width="1.6"/>
+ <path d="M0-112V-48L-24-24L0 0L24-24L0-48M0 112V48L-24 24L0 0L24 24L0 48M-112 0H-48L-24-24M112 0H48L24-24" stroke="#b6c69a" stroke-width="1.4"/>
+ <path d="M-62-62L-30-50L-18-18L-50-30ZM62-62L30-50L18-18L50-30ZM-62 62L-30 50L-18 18L-50 30ZM62 62L30 50L18 18L50 30Z" stroke="#9bb27b" stroke-width="1.4"/>
+ <path d="M0-28L28 0L0 28L-28 0Z" stroke="#c7a0df" stroke-width="2.2"/>
+ <circle r="5" fill="#b88bd4" stroke="none" filter="url(#glow)"/>
+ <g stroke="#9bb27b" stroke-width="1.5"><path d="M-132-82L-105-82L-91-68M132-82L105-82L91-68M-132 82L-105 82L-91 68M132 82L105 82L91 68"/></g>
+ <g fill="#b6c69a" stroke="none"><circle cx="0" cy="-151" r="3"/><circle cy="151" r="3"/><circle cx="-151" r="3"/><circle cx="151" r="3"/></g>
+</g>
+<g font-family="monospace">
+ <text x="76" y="91" fill="#9bb27b" font-size="11" letter-spacing="3">INDEPENDENT SYSTEMS / FIELD NOTES 001</text>
+ <text x="72" y="190" fill="#e3e5dc" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="700" letter-spacing="4">PADOKAZZZ</text>
+ <path d="M76 207H460" stroke="#9bb27b" stroke-width="2"/>
+ <text x="78" y="240" fill="#b88bd4" font-size="15" letter-spacing="4">FULL STACK DEVELOPER</text>
+ <text x="78" y="270" fill="#9aa69a" font-size="11" letter-spacing="1.5">C# / .NET  ·  TYPESCRIPT  ·  REACT  ·  PYTHON</text>
+ <text x="78" y="322" fill="#758274" font-size="10" letter-spacing="2">BUILD SYSTEMS. TRACE CONNECTIONS. BREAK PATTERNS.</text>
+ <text x="1032" y="112" fill="#9bb27b" font-size="10" letter-spacing="2">CORE STACK</text>
+ <text x="1032" y="143" fill="#c8d0bf" font-size="12">REACT / NEXT</text>
+ <text x="1032" y="169" fill="#c8d0bf" font-size="12">C# / .NET</text>
+ <text x="1032" y="195" fill="#c8d0bf" font-size="12">NODE / PYTHON</text>
+ <text x="1032" y="221" fill="#c8d0bf" font-size="12">SQL / REDIS</text>
+ <text x="1032" y="247" fill="#c8d0bf" font-size="12">DOCKER / AWS</text>
+ <text x="1032" y="292" fill="#b88bd4" font-size="10" letter-spacing="2">CODE IS THE INTERFACE</text>
+</g>
+<rect x="1" y="1" width="1198" height="358" fill="none" stroke="#9bb27b" stroke-opacity=".28"/>
 </svg>
