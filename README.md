@@ -1,182 +1,91 @@
-
-<!-- Banner -->
+<!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://github.com/Padokazzz/Padokazzz/blob/main/perfil.png" width="100%" alt="Leonardo Padilha Banner"/>
+  <img src="profile-header.svg" width="100%" alt="Leonardo Padilha | Full Stack Developer" />
 </p>
 
-<!-- Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Leonardo+Padilha;Full+Stack+Developer;React+%7C+TypeScript+%7C+.NET+%7C+Flutter;Building+Web%2C+Mobile+and+Backend+Applications" />
-</h1>
-
-<!-- Animated Avatar -->
 <p align="center">
-  <img src="https://github.com/Padokazzz/Padokazzz/blob/main/avatar.gif" width="180" alt="Animated Avatar"/>
-</p>
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Padokazzz&label=Profile+Views&color=58A6FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Padokazzz?style=for-the-badge&color=58A6FF&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/stars/Padokazzz?style=for-the-badge&color=58A6FF&labelColor=0D1117" />
+  <a href="https://www.leonardopadilha.com">PORTFOLIO</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/leonardo-padilha-kawashaki/">LINKEDIN</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:padilhakawashakil@gmail.com">EMAIL</a>
 </p>
 
 ---
 
-# 👨‍💻 Sobre mim
+## Sobre
 
-Sou Desenvolvedor Full Stack com experiência em desenvolvimento **Web, Mobile e Backend**.
+Desenvolvedor Full Stack com experiência na construção e evolução de aplicações web e mobile, APIs e integrações entre sistemas.
 
-Atualmente trabalho com **Flutter** e **.NET** em aplicações reais, atuando com:
+Minha atuação passa pelo frontend, backend e pelas partes que conectam os dois: modelagem de dados, autenticação, comunicação em tempo real, integrações externas e manutenção de aplicações em produção.
 
-- APIs REST
-- React e TypeScript
-- Chat em tempo real
-- SignalR e WebSockets
-- Notificações Push
-- Chamadas de voz e vídeo com WebRTC
-- Integrações entre frontend e backend
-- Manutenção de aplicações em produção
+Tenho trabalhado principalmente com **C#/.NET, TypeScript, React e SQL**. Gosto de entender o sistema como um todo, investigar problemas e construir soluções que continuem fazendo sentido depois do primeiro deploy.
 
-Meu foco atual é evoluir cada vez mais no ecossistema **Web**, principalmente com **React, TypeScript, Next.js e .NET**.
+Atualmente, meu foco está em aprofundar arquitetura de software, aplicações distribuídas, mensageria e engenharia backend.
 
-📍 Araçoiaba da Serra - SP, Brasil
+## Stack
 
----
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" alt="React, Next.js, TypeScript, JavaScript, HTML e CSS" />
+</p>
 
-# 🚀 Tech Stack
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,python" alt="C sharp, .NET, Node.js e Python" />
+</p>
 
-## 🌐 Web
+**Dados e infraestrutura**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws,git,github" alt="PostgreSQL, MySQL, Redis, Docker, AWS, Git e GitHub" />
+</p>
+
+**Também tenho experiência com:** Flutter, Dart, SQL Server, SignalR, WebSockets, WebRTC, REST APIs e integrações de terceiros.
+
+## Projetos selecionados
+
+Projetos que demonstram diferentes partes do meu trabalho, de interfaces e produtos completos a regras de negócio e infraestrutura.
+
+### [Leilão online](https://github.com/Padokazzz/elite-dev-leilao-online) · [Demo](https://leilao-online-eta.vercel.app)
+**Django · Django REST Framework · React · TypeScript · PostgreSQL · Redis**
+
+Aplicação de leilões com fluxo de lances em tempo real, autenticação, auditoria e liquidação financeira. O projeto inclui tratamento de concorrência, operações idempotentes, testes automatizados e comunicação via WebSockets.
+
+### [Portfolio](https://github.com/Padokazzz/Portfolio) · [Site](https://www.leonardopadilha.com)
+**Next.js · React · TypeScript**
+
+Meu site pessoal, desenvolvido para reunir projetos, artigos e experimentos. Inclui páginas dinâmicas, estrutura de conteúdo, SEO e testes end-to-end.
+
+### [FinTrack API](https://github.com/Padokazzz/FinTrack) · [Frontend](https://github.com/Padokazzz/fintrack-web)
+**C# · ASP.NET Core · Entity Framework Core · PostgreSQL · React · TypeScript**
+
+Aplicação de controle financeiro com API, autenticação e interface web. Projeto voltado à organização de responsabilidades entre frontend e backend, validação de dados e persistência.
+
+### [Job Hunter](https://github.com/Padokazzz/job-hunter)
+**TypeScript · Node.js · Fastify · Prisma · PostgreSQL**
+
+Ferramenta para centralizar oportunidades, organizar candidaturas e apoiar a análise de compatibilidade entre vagas e currículo. O envio de candidaturas permanece sob decisão do usuário.
+
+### [MTG Proxy Printer](https://github.com/Padokazzz/mtg-proxy-printer)
+**Python · Pillow · ReportLab · PyYAML**
+
+Utilitário de linha de comando para organizar cartas e gerar PDFs para impressão, com configuração por YAML e testes automatizados.
+
+## Em desenvolvimento
+
+- Arquitetura de aplicações distribuídas e comunicação assíncrona.
+- Mensageria com RabbitMQ e Kafka.
+- Observabilidade, resiliência e testes de integração.
+- Infraestrutura com Docker e pipelines de CI/CD.
+
+## Contato
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
-</p>
-
-## ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
-</p>
-
-## 📱 Mobile
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-## 🗄️ Banco de Dados
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-## 🛠️ Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio" />
-</p>
-
----
-
-# 🔥 Atualmente
-
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-- 🌐 Estudando React, Next.js e TypeScript
-- ⚙️ Desenvolvendo APIs com C# e .NET
-- 📱 Mantendo aplicações Flutter em produção
-- 🔄 Trabalhando com SignalR e WebSockets
-- 🐳 Estudando Docker e arquitetura de sistemas
-- ☁️ Explorando deploys e infraestrutura cloud
-
-<br clear="right"/>
-
----
-
-# 🚀 Projetos em Destaque
-
-## 💬 Sistema de Chat em Tempo Real
-
-**Flutter • .NET • SignalR • SQL Server**
-
-- Mensagens em tempo real
-- Status de envio, entrega e leitura
-- Grupos e conversas privadas
-- Notificações Push
-- Integração com SignalR
-
----
-
-## 📱 Aplicação Social Mobile
-
-**Flutter • C# • .NET • SQL Server**
-
-- Feed de conteúdo
-- Sistema de seguidores
-- Upload de mídia
-- Chat em tempo real
-- Eventos
-- Chamadas de voz e vídeo
-
----
-
-## 🌐 Portfólio Web
-
-**React • TypeScript • Vite**
-
-- Apresentação profissional
-- Showcase de projetos
-- Interface moderna e responsiva
-- Evolução contínua
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Padokazzz&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padokazzz&layout=compact&theme=github_dark&hide_border=true" />
+  <a href="https://www.leonardopadilha.com">leonardopadilha.com</a><br />
+  <a href="https://www.linkedin.com/in/leonardo-padilha-kawashaki/">LinkedIn</a><br />
+  <a href="mailto:padilhakawashakil@gmail.com">padilhakawashakil@gmail.com</a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Padokazzz&theme=github-dark-blue&hide_border=true" />
+  <sub>Construindo sistemas. Investigando como as peças se conectam.</sub>
 </p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Padokazzz&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-# 🎯 Objetivos para 2026
-
-- Aprofundar conhecimentos em React e Next.js
-- Evoluir em arquitetura de software
-- Construir projetos Full Stack mais completos
-- Melhorar deploy, Docker e CI/CD
-- Consolidar atuação como Desenvolvedor Full Stack
-
----
-
-# 🌎 Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/leonardo-padilha-kawashaki-822434163">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:padilhakawashakil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Always+learning.;Always+building.;Always+improving." />
-</p>
-```
