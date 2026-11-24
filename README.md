@@ -42,34 +42,38 @@ Atualmente, meu foco está em aprofundar arquitetura de software, aplicações d
 
 **Também tenho experiência com:** Flutter, Dart, SQL Server, SignalR, WebSockets, WebRTC, REST APIs e integrações de terceiros.
 
-## Projetos selecionados
+## Projetos em destaque
 
-Projetos que demonstram diferentes partes do meu trabalho, de interfaces e produtos completos a regras de negócio e infraestrutura.
+Seleção dos repositórios que melhor representam meu trabalho atual. A ordem prioriza profundidade técnica, arquitetura e aderência ao meu foco em desenvolvimento Full Stack e backend.
 
-### [Leilão online](https://github.com/Padokazzz/elite-dev-leilao-online) · [Demo](https://leilao-online-eta.vercel.app)
-**Django · Django REST Framework · React · TypeScript · PostgreSQL · Redis**
+### 01 · [Elite Dev Leilão Online](https://github.com/Padokazzz/elite-dev-leilao-online)
+<sub>Django · DRF · React · TypeScript · PostgreSQL · Redis · WebSockets · Docker</sub>
 
-Aplicação de leilões com fluxo de lances em tempo real, autenticação, auditoria e liquidação financeira. O projeto inclui tratamento de concorrência, operações idempotentes, testes automatizados e comunicação via WebSockets.
+Plataforma de leilões em tempo real com carteira baseada em ledger append-only, controle de concorrência, liquidação idempotente e cadeia de auditoria HMAC. Inclui frontend completo, painel administrativo, auditoria pública, ambiente Docker e suíte de **218 testes backend**.
 
-### [Portfolio](https://github.com/Padokazzz/Portfolio) · [Site](https://www.leonardopadilha.com)
-**Next.js · React · TypeScript**
+[**Abrir demonstração**](https://leilao-online-eta.vercel.app) · [Código-fonte](https://github.com/Padokazzz/elite-dev-leilao-online)
 
-Meu site pessoal, desenvolvido para reunir projetos, artigos e experimentos. Inclui páginas dinâmicas, estrutura de conteúdo, SEO e testes end-to-end.
+### 02 · [FinTrack](https://github.com/Padokazzz/FinTrack) · [Frontend](https://github.com/Padokazzz/fintrack-web)
+<sub>C# · ASP.NET Core · EF Core · PostgreSQL · JWT · React · TypeScript</sub>
 
-### [FinTrack API](https://github.com/Padokazzz/FinTrack) · [Frontend](https://github.com/Padokazzz/fintrack-web)
-**C# · ASP.NET Core · Entity Framework Core · PostgreSQL · React · TypeScript**
+Aplicação de gestão financeira pessoal dividida entre uma API .NET e um frontend React. Demonstra organização em camadas, autenticação, autorização por usuário, validação de dados, persistência e integração entre aplicações.
 
-Aplicação de controle financeiro com API, autenticação e interface web. Projeto voltado à organização de responsabilidades entre frontend e backend, validação de dados e persistência.
+### 03 · [Portfolio](https://github.com/Padokazzz/Portfolio)
+<sub>Next.js · React · TypeScript · Tailwind CSS · Playwright</sub>
 
-### [Job Hunter](https://github.com/Padokazzz/job-hunter)
-**TypeScript · Node.js · Fastify · Prisma · PostgreSQL**
+Meu site pessoal, construído como um produto de conteúdo: projetos, experiências, artigos técnicos e experimentos, com foco em navegação, SEO, acessibilidade e qualidade de entrega.
 
-Ferramenta para centralizar oportunidades, organizar candidaturas e apoiar a análise de compatibilidade entre vagas e currículo. O envio de candidaturas permanece sob decisão do usuário.
+[Acessar o site](https://www.leonardopadilha.com)
 
-### [MTG Proxy Printer](https://github.com/Padokazzz/mtg-proxy-printer)
-**Python · Pillow · ReportLab · PyYAML**
+### 04 · [Job Hunter](https://github.com/Padokazzz/job-hunter)
+<sub>TypeScript · Node.js · Fastify · Prisma · PostgreSQL · Docker</sub>
 
-Utilitário de linha de comando para organizar cartas e gerar PDFs para impressão, com configuração por YAML e testes automatizados.
+Plataforma de coleta e organização de vagas de tecnologia. Integra diferentes fontes, calcula compatibilidade com o perfil configurado e oferece dashboard para filtrar oportunidades e preparar candidaturas. O envio permanece sob controle humano.
+
+### 05 · [MTG Proxy Printer](https://github.com/Padokazzz/mtg-proxy-printer)
+<sub>Python · Pillow · ReportLab · PyYAML · CLI</sub>
+
+Ferramenta de linha de comando que transforma listas de cartas em PDFs prontos para impressão, com configuração por YAML, cache local de imagens e recursos de alinhamento e escala. Projeto independente para playtesting.
 
 ## Em desenvolvimento
 
